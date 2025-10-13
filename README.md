@@ -1,13 +1,22 @@
-# Python CLI Challenges - Basics
+# 🐍 Python CLI Challenges - 60-Day Progress Tracker
 
-This folder contains **Day 1 Python mini challenge** designed to master **variables and data types**.
+This repository is my **personal tracker** for the 60-day Python CLI mini challenge.  
+The goal is to **track daily progress** while learning Python and DSA in a clean and organized way.
 
-## Day 1 Challenge
+---
 
-- Take user input for **name** and **age**
-- Print a greeting message:  
-  Example: `"Hello Sujetha, you are 21 years old!"`
+## 📅 60-Day Checklist
 
-## How to Run
-python day1_hello_user.py
+| Day | Topic / Concept | Completed |
+|-----|----------------|-----------|
+| 1   | Variables & Data Types | ✅ |
+| 2   | Operators & Comparison | ✅ |
+
+
+---
+
+## 📌 How to Track
+- After completing a day’s challenge, simply mark **✅** in the “Completed” column.  
+- Each day’s **mini challenge code** is stored in its respective Python file.  
+- This keeps the tracker **clean, simple, and scalable** for all 60 days.
 
