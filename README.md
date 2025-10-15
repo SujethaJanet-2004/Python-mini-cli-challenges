@@ -12,6 +12,7 @@ The goal is to **track daily progress** while learning Python and DSA in a clean
 | 1   | Variables & Data Types | ✅ |
 | 2   | Operators & Comparison | ✅ |
 | 3   | Conditional Statements | ✅ |
+| 4   | Loops | ✅ |
 
 
 ---
