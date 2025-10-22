@@ -15,6 +15,8 @@ The goal is to **track daily progress** while learning Python and DSA in a clean
 | 4   | Loops | ✅ |
 | 5   | Function | ✅ |
 | 6   | Built-in Functions | ✅ |
+| 7  | Revision | ✅ |
+| 8  | Recursion | ✅ |
 
 ---
 
